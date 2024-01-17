@@ -1,4 +1,4 @@
-Hi 👋 My name is Yasin Seyhun
+ Yasin Seyhun
 =============================
 
 Software Developer
